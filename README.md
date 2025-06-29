@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um teste técnico para a [Nome da Empresa].  
+Este projeto foi desenvolvido como parte de um teste técnico
 O objetivo foi criar uma loja online simples utilizando **React** no frontend e um servidor falso de API com **JSON Server** para simular os dados dos produtos.
 
 ---
